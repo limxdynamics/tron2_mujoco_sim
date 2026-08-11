@@ -5,7 +5,6 @@
   SPDX-License-Identifier: Apache-2.0
 -->
 
-[English](README.md) | [中文](README_zh-CN.md)
 
 > **Distribution.** The primary public distribution point for this
 > repository is GitHub:
