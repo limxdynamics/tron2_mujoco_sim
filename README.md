@@ -20,6 +20,8 @@
 
 # tron2-mujoco-sim
 
+> **Part of the TRON2 open-source ecosystem.** Where to start and the other TRON2 repositories: [TRON2 quick start](https://github.com/limxdynamics/limxdynamics/blob/main/doc/quickstart.md#tron2).
+
 MuJoCo simulator for the TRON2 robot family. It bridges the LimX low-level SDK
 (`RobotCmd` / `RobotState` carrying `q` / `dq` / `tau` / `Kp` / `Kd`, plus
 `ImuData` and gripper messages) to `mujoco.MjData`, so the same controller wire

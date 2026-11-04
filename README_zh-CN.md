@@ -20,6 +20,8 @@
 
 # tron2-mujoco-sim
 
+> **TRON2 开源生态的一部分。** 上手路线和其他 TRON2 仓库：[TRON2 快速上手](https://github.com/limxdynamics/limxdynamics/blob/main/doc/quickstart_cn.md#tron2)。
+
 TRON2 系列机器人的 MuJoCo 仿真器。它把 LimX 底层 SDK（`RobotCmd` / `RobotState`
 承载 `q` / `dq` / `tau` / `Kp` / `Kd`，以及 `ImuData` 与夹爪消息）桥接到
 `mujoco.MjData`，使得驱动真机的同一套控制器线格式可以直接对着仿真跑。
