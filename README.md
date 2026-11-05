@@ -375,4 +375,3 @@ repository:
   [GitHub Discussions](https://github.com/limxdynamics/tron2_mujoco_sim/discussions).
 - **Security reports:** email `contact@limxdynamics.com`; see
   [`SECURITY.md`](SECURITY.md) for the sim-vs-real boundary note.
-- **Company / commercial contact:** <https://www.limxdynamics.com>.

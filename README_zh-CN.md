@@ -333,4 +333,3 @@ Apache License 2.0，见 [`LICENSE`](LICENSE)，SPDX 标识 `Apache-2.0`。
   [GitHub Discussions](https://github.com/limxdynamics/tron2_mujoco_sim/discussions)。
 - **安全问题上报：** 邮箱 `contact@limxdynamics.com`；仿真 vs 实机
   的边界说明见 [`SECURITY.md`](SECURITY.md)。
-- **公司 / 商务联系：** <https://www.limxdynamics.com>。
